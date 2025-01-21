@@ -1,4 +1,4 @@
-============================================================================
+===========================================================================
 
 TSQL - Sql para criação de Banco de Dados para Proposta de Projeto que será
 desenvolvido 
@@ -8,7 +8,7 @@ possibilitará o gerenciamento de chamados feitos por clientes.
 
 - Arquitetura Web MVC - linguagem C# 
 
-===============================================================================
+===========================================================================
 
 # Relacionamento entre Tabelas do Banco de Dados `Chamado`
 
